@@ -14,7 +14,7 @@ public class Review02 {
                 System.out.println("Buzz");
             // 3で割り切れる数を選出
             } else if (i % 3 == 0 ){
-            // FizzBuzzを表示する
+            // Fizzを表示する
                System.out.println("Fizz");
             } else {
             System.out.println(i);
